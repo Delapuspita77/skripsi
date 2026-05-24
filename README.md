@@ -29,7 +29,7 @@ Sistem mendukung evaluasi beberapa konfigurasi retrieval:
 | Dense Retrieval Baseline | Embedding semantic search |
 | Dense Retrieval + QE | Semantic retrieval + expansion |
 | Finetuned | Dense retrieval model hasil fine-tuning |
-| Finetuned + QE | Fine-tuned semantic model + query expansion |
+| Finetuned + QE | Fine-tuned semantic model + query expansion | model yang diusulkan
 
 ---
 
@@ -43,7 +43,7 @@ Preprocessing Query
 Query Expansion
     ↓
 Retriever Model
-(BM25 / Semantic Retrieval / Finetuned)
+(BM25 / Semantic Retrieval / Finetuned(utama)
     ↓
 Ranking
     ↓
