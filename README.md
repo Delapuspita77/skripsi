@@ -1,4 +1,6 @@
-# 📚 Sistem Pencarian Skripsi dengan Semantic Search dan Query Expansion pada Repository UPN Jatim
+# Sistem Pencarian Skripsi dengan Semantic Search dan Query Expansion pada Repository UPN Jatim
+
+<img width="1916" height="904" alt="Screenshot 2026-04-28 213518" src="https://github.com/user-attachments/assets/cf40ef9b-3045-4fce-b1f1-858723397d71" />
 
 Sistem pencarian skripsi berbasis **Semantic Information Retrieval** untuk membantu pengguna menemukan judul skripsi yang relevan meskipun menggunakan variasi kata, sinonim, maupun query natural language.
 
@@ -6,16 +8,16 @@ Penelitian ini bertujuan untuk membangun sistem pencarian skripsi berbasis seman
 
 ---
 
-## ✨ Fitur Utama
+## Fitur Utama
 
-- 🔎 Pencarian judul skripsi berbasis semantic search
-- 🏫 Filter berdasarkan Fakultas
-- 🎓 Filter berdasarkan Program Studi
-- 🧠 Query Expansion interaktif
-- 📊 Perbandingan model retrieval
-- 📝 Highlight keyword dan hasil ekspansi
-- 📈 Menampilkan skor relevansi dokumen
-- 📖 Pagination di setiap halaman
+- Pencarian judul skripsi berbasis semantic search
+- Filter berdasarkan Fakultas
+- Filter berdasarkan Program Studi
+- Query Expansion interaktif
+- Perbandingan model retrieval
+- Highlight keyword dan hasil ekspansi
+- Menampilkan skor relevansi dokumen
+- Pagination di setiap halaman
 
 ---
 
