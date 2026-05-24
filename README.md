@@ -61,6 +61,43 @@ Dataset menggunakan metadata repository skripsi universitas yang mencakup:
 
 ---
 
+## Struktur Folder
+
+```text
+repository-skripsi/
+│
+├── README.md
+│
+├── app/
+│   ├── app_streamlit.py
+│   ├── retrieval.py
+│
+├── data/
+│   ├── raw/
+│   │   └── dataset_repo_upn.xlsx
+│   │
+│   └── qrels/
+│       ├── pool_for_judging_longquery.csv
+│       ├── pool_for_judging_new.csv
+│       └── pool_qrels_pengaruh15.csv
+│
+├── notebooks/
+│   │
+│   ├── preprocessing/
+│   │   └── Preprocess_Data_Repo_UPN.ipynb
+│   │
+│   ├── model_training/
+│   │   └── create_model_semantic_search_indosbert.ipynb
+│   │
+│   ├── experiments/
+│   │   ├── semantic_qe_final.ipynb
+│   │   └── pengaruh_qe.ipynb
+│
+└── requirements.txt
+```
+
+---
+
 ## Tampilan Sistem
 
 Fitur utama antarmuka sistem:
